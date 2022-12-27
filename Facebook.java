@@ -61,12 +61,12 @@ public class Facebook {
 //		driver.findElement(By.xpath("//input[@type='radio' and @value='2']")).click();
 //		driver.findElement(By.name("websubmit")).click();
 	     Fname.clear();
-	     Fname.sendKeys("Abhi");
+	     Fname.sendKeys("Raju");
 	     surname.clear();
-	     surname.sendKeys("Kanukuntla");
-	     email.sendKeys("abhinay.kanukuntla@gmail.com");
-	     reg_enteremail.sendKeys("abhinay.kanukuntla@gmail.com");
-	     newpassword.sendKeys("sunny@5545");
+	     surname.sendKeys("Khamm");
+	     email.sendKeys("abcd@gmail.com");
+	     reg_enteremail.sendKeys("abcd@gmail.com");
+	     newpassword.sendKeys("sunny@2222");
 	     selDate.selectByVisibleText("30");
 	     selMonth.selectByVisibleText("Dec");
 	     selYear.selectByVisibleText("1998");
